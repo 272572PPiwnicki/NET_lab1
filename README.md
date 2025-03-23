@@ -16,8 +16,8 @@ Projekt konsolowej aplikacji w języku C# rozwiązującej klasyczny problem plec
 ## 🔧 Technologie
 
 - C#
-- .NET 8.0 (LTS)
-- MSTest (testy jednostkowe)
+- .NET 8.0
+- MSTest
 - Visual Studio 2022
 
 ---
